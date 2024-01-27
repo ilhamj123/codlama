@@ -1,7 +1,7 @@
 package week01;
 
 public class task5 {
-    public class Main {
+    
         public static void main(String[] args) {
             // Part a:
             int intValue = 42;
@@ -20,4 +20,4 @@ public class task5 {
         }
     }
     
-}
+
